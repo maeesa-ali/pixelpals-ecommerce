@@ -109,6 +109,29 @@ Pull Request:
 - **PR #10 – Merge Maeesa’s updated SRD sections**
   Purpose: Merge completed SRD content from maeesa-branch into main for team use.
   Status: ✅ Merged successfully (✔ Verified)
+-------------------------------------
+OCTOBER 28, 2025
+-------------------------------------
+Branch: maeesa-branch → merged into main
+
+Commits:
+- "Week 6 Meeting notes"
+  Purpose: Uploaded documentation of team discussion and planning progress.
+- "Trello board at week 6 & Maeesa tasks W6"
+  Purpose: Added proof of Trello workload and project tracking for assessment.
+
+Pull Requests:
+- **PR #14 – Merge main into maeesa-branch**
+  Purpose: Updated maeesa-branch to latest project state for consistency.
+  Status: ✅ Merged successfully (✔ Verified)
+
+- **PR #15 – Merge Maeesa Evidence (W6 Proof)**
+  Purpose: Uploaded and merged Trello + meeting evidence for submission.
+  Status: ✅ Merged successfully (✔ Verified)
+
+- **PR #17 – Merge Week 6 Work (Maeesa-branch)**
+  Purpose: Final merge of Week 6 contributions into main branch.
+  Status: ✅ Merged successfully (✔ Verified)
 
 -------------------------------------
 
